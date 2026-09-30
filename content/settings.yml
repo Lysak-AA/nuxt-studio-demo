@@ -1,0 +1,27 @@
+company:
+  name: Горизонт
+  tagline: Цифровые продукты для бизнеса
+navigation:
+  - label: Главная
+    to: /
+  - label: О нас
+    to: /about
+  - label: Блог
+    to: /blog
+  - label: Контакты
+    to: /contacts
+contacts:
+  phone: +7 (495) 123-45-67
+  email: hello@gorizont.example
+  address: Москва, ул. Примерная, 10, офис 42
+  hours: Пн–Пт, 10:00–19:00
+socials:
+  - label: Telegram
+    icon: i-simple-icons-telegram
+    url: https://t.me/
+  - label: VK
+    icon: i-simple-icons-vk
+    url: https://vk.com/
+  - label: YouTube
+    icon: i-simple-icons-youtube
+    url: https://youtube.com/
